@@ -1,4 +1,5 @@
 sudo: required
+dist: focal # specify the ubuntu distribution
 services:
   - docker
 env:
